@@ -1,0 +1,9 @@
+(footprint "PIEZO" (layer "F.Cu") (attr through_hole)
+(at 0 0)
+(property "Reference" "REF**" (at 0 -5 0) (layer "F.SilkS") (effects (font (size 1 1) (thickness 0.15))))
+(property "Value" "PASSIVE PIEZO 12mm" (at 0 5 0) (layer "F.Fab") (hide yes) (effects (font (size 1 1) (thickness 0.15))))
+
+(fp_circle (center 0 0) (end 6.4 0) (stroke (width 0.12) (type default)) (fill none) (layer "F.SilkS"))
+(pad "1" thru_hole rect (at -3.8100 0.0000) (size 2.000 2.000) (drill 0.900) (layers "*.Cu" "*.Mask"))
+(pad "2" thru_hole circle (at 3.8100 0.0000) (size 2.000 2.000) (drill 0.900) (layers "*.Cu" "*.Mask"))
+)

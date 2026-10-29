@@ -1,0 +1,1 @@
+(sym_lib_table (lib (name "UMA_MSP430")(type "KiCad")(uri "${KIPRJMOD}/UMA_MSP430.kicad_sym")(options "")(descr "MSP430 labboard custom symbols")))

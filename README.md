@@ -57,4 +57,3 @@ A simple **2-layer, 109 × 71 mm**, mostly through-hole KiCad project inspired b
 - TI MSP430 Hardware Tools, SBW guidance: https://www.ti.com/lit/ug/slau278/slau278.pdf
 - Bourns PTA slide potentiometer mechanical drawing: https://www.bourns.com/docs/product-datasheets/pta.pdf
 - Inspiration: https://hackaday.io/project/3173-msp430-minimal
-

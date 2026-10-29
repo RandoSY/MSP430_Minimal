@@ -1,0 +1,74 @@
+{
+  "shorts": [],
+  "below_0_2mm": [
+    [
+      0,
+      "GND",
+      "P2.0",
+      0.16
+    ],
+    [
+      0,
+      "GND",
+      "P2.1",
+      0.16
+    ],
+    [
+      0,
+      "P2.0",
+      "RST",
+      0.16
+    ],
+    [
+      1,
+      "3V3",
+      "P2.5",
+      0.16
+    ],
+    [
+      1,
+      "3V3",
+      "RST",
+      0.16
+    ],
+    [
+      1,
+      "GND",
+      "P2.0",
+      0.16
+    ],
+    [
+      1,
+      "GND",
+      "P2.1",
+      0.2
+    ],
+    [
+      1,
+      "GND",
+      "P2.2",
+      0.16
+    ],
+    [
+      1,
+      "P1.6",
+      "P1.7",
+      0.175
+    ],
+    [
+      1,
+      "P2.0",
+      "P2.1",
+      0.16
+    ],
+    [
+      1,
+      "P2.1",
+      "P2.2",
+      0.16
+    ]
+  ],
+  "npth_violations_under_0_25mm": [],
+  "routing_fails": [],
+  "method": "Independent 2D shapely copper-only clearance approximation. NOT KiCad DRC."
+}

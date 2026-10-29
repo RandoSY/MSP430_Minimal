@@ -1,0 +1,1 @@
+(fp_lib_table (lib (name "UMA_MSP430")(type "KiCad")(uri "${KIPRJMOD}/UMA_MSP430.pretty")(options "")(descr "Local MSP430G2553 footprints")))
